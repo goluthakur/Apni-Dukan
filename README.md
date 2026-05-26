@@ -1,2 +1,3 @@
 # Apni-Dukan
-Grocery Delivery App for India
+Trendy Fashion Wear
+
